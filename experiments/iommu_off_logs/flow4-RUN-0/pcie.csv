@@ -1,0 +1,1358 @@
+Socket,Name,Part,IB write (bytes),IB read (bytes),OB read (bytes),OB write (bytes),IOTLB Hit,IOTLB Miss,VT-d CTXT Miss,VT-d L1 Miss,VT-d L2 Miss,VT-d L3 Miss,VT-d Mem Read
+Socket0,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,186,0,0,0,0,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,186
+Socket0,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,2381395,0,0
+Socket0,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,17395,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),11117309023,39671255,0,4263813,46504697,12372,0,0,0,0,60976
+Socket0,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket,Name,Part,IB write (bytes),IB read (bytes),OB read (bytes),OB write (bytes),IOTLB Hit,IOTLB Miss,VT-d CTXT Miss,VT-d L1 Miss,VT-d L2 Miss,VT-d L3 Miss,VT-d Mem Read
+Socket0,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,488,0,0,0,0,0,93
+Socket0,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),11102907534,39681209,0,4178418,46519255,6604,0,0,0,0,29395
+Socket0,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket,Name,Part,IB write (bytes),IB read (bytes),OB read (bytes),OB write (bytes),IOTLB Hit,IOTLB Miss,VT-d CTXT Miss,VT-d L1 Miss,VT-d L2 Miss,VT-d L3 Miss,VT-d Mem Read
+Socket0,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,209,0,0,0,0,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),1767,6139,0,186
+Socket0,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),11197877581,39740000,0,4174976,46688720,8465,0,0,0,0,8720
+Socket0,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket,Name,Part,IB write (bytes),IB read (bytes),OB read (bytes),OB write (bytes),IOTLB Hit,IOTLB Miss,VT-d CTXT Miss,VT-d L1 Miss,VT-d L2 Miss,VT-d L3 Miss,VT-d Mem Read
+Socket0,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,69,0,0,0,0,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),11176448000,39736000,0,4292279,46494581,7883,0,0,0,0,19534
+Socket0,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket,Name,Part,IB write (bytes),IB read (bytes),OB read (bytes),OB write (bytes),IOTLB Hit,IOTLB Miss,VT-d CTXT Miss,VT-d L1 Miss,VT-d L2 Miss,VT-d L3 Miss,VT-d Mem Read
+Socket0,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,604,0,0,0,0,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,186
+Socket0,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),11072811162,39585209,0,4211162,46427767,8348,0,0,0,0,558
+Socket0,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket,Name,Part,IB write (bytes),IB read (bytes),OB read (bytes),OB write (bytes),IOTLB Hit,IOTLB Miss,VT-d CTXT Miss,VT-d L1 Miss,VT-d L2 Miss,VT-d L3 Miss,VT-d Mem Read
+Socket0,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,4186,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),11022358325,39538511,0,4211255,46548046,11558,0,0,0,0,511
+Socket0,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket,Name,Part,IB write (bytes),IB read (bytes),OB read (bytes),OB write (bytes),IOTLB Hit,IOTLB Miss,VT-d CTXT Miss,VT-d L1 Miss,VT-d L2 Miss,VT-d L3 Miss,VT-d Mem Read
+Socket0,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,279,372
+Socket0,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,6046,0,0,0,0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),11181309023,39842604,0,4196093,46552023,10697,0,0,0,0,12720
+Socket0,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket,Name,Part,IB write (bytes),IB read (bytes),OB read (bytes),OB write (bytes),IOTLB Hit,IOTLB Miss,VT-d CTXT Miss,VT-d L1 Miss,VT-d L2 Miss,VT-d L3 Miss,VT-d Mem Read
+Socket0,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),744,3813,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),11175421023,39469488,0,4072930,46764116,6186,0,0,0,0,13674
+Socket0,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket,Name,Part,IB write (bytes),IB read (bytes),OB read (bytes),OB write (bytes),IOTLB Hit,IOTLB Miss,VT-d CTXT Miss,VT-d L1 Miss,VT-d L2 Miss,VT-d L3 Miss,VT-d Mem Read
+Socket0,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),1767,0,279,372
+Socket0,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),95255,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),11067558697,39486697,0,4529116,46422186,7395,0,0,0,0,22186
+Socket0,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket,Name,Part,IB write (bytes),IB read (bytes),OB read (bytes),OB write (bytes),IOTLB Hit,IOTLB Miss,VT-d CTXT Miss,VT-d L1 Miss,VT-d L2 Miss,VT-d L3 Miss,VT-d Mem Read
+Socket0,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),12186,0,0,279
+Socket0,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),95255,190511,0,0
+Socket0,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),11194210232,39753302,0,4468930,46204511,9534,0,0,0,0,17883
+Socket0,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket,Name,Part,IB write (bytes),IB read (bytes),OB read (bytes),OB write (bytes),IOTLB Hit,IOTLB Miss,VT-d CTXT Miss,VT-d L1 Miss,VT-d L2 Miss,VT-d L3 Miss,VT-d Mem Read
+Socket0,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,930
+Socket0,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),190511,95255,0,0
+Socket0,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),11107723906,39469674,0,4158790,46596255,7465,0,0,0,0,14372
+Socket0,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket,Name,Part,IB write (bytes),IB read (bytes),OB read (bytes),OB write (bytes),IOTLB Hit,IOTLB Miss,VT-d CTXT Miss,VT-d L1 Miss,VT-d L2 Miss,VT-d L3 Miss,VT-d Mem Read
+Socket0,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),1116,0,0,186
+Socket0,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),11058220651,39367813,0,4563348,46155372,9348,0,0,0,0,12418
+Socket0,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket,Name,Part,IB write (bytes),IB read (bytes),OB read (bytes),OB write (bytes),IOTLB Hit,IOTLB Miss,VT-d CTXT Miss,VT-d L1 Miss,VT-d L2 Miss,VT-d L3 Miss,VT-d Mem Read
+Socket0,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),2883,0,0,279
+Socket0,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),11040364651,39805395,0,4331906,46195976,8558,0,0,0,0,28744
+Socket0,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),30511,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket,Name,Part,IB write (bytes),IB read (bytes),OB read (bytes),OB write (bytes),IOTLB Hit,IOTLB Miss,VT-d CTXT Miss,VT-d L1 Miss,VT-d L2 Miss,VT-d L3 Miss,VT-d Mem Read
+Socket0,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,186,0,0,0,0,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),7534,0,0,558
+Socket0,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),11027585488,39634046,0,4502604,46313906,7953,0,0,0,0,29232
+Socket0,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket0,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket1,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket2,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 0 - CBDMA/DMI,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 1 - PCIe0,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 2 - PCIe1,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 3 - PCIe2,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 4 - MCP0,Part3 (4th x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part0 (1st x16/x8/x4),0,0,0,0,0,0,0,0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part1 (2nd x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part2 (2nd x8/3rd x4),0,0,0,0
+Socket3,IIO Stack 5 - MCP1,Part3 (4th x4),0,0,0,0

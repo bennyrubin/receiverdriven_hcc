@@ -1,0 +1,20 @@
+-----------------------------------------------------------
+Server listening on 3001 (test #1)
+-----------------------------------------------------------
+Accepted connection from 192.168.11.117, port 42534
+[  6] local 192.168.11.116 port 3001 connected to 192.168.11.117 port 42540
+[ ID] Interval           Transfer     Bitrate
+[  6]   0.00-30.00  sec  83.3 GBytes  23866 Mbits/sec                  
+-----------------------------------------------------------
+Server listening on 3000 (test #1)
+-----------------------------------------------------------
+Accepted connection from 192.168.11.117, port 38086
+[  6] local 192.168.11.116 port 3000 connected to 192.168.11.117 port 38096
+[ ID] Interval           Transfer     Bitrate
+[  6]   0.00-30.00  sec  82.3 GBytes  23579 Mbits/sec                  
+[  6]  30.00-60.00  sec  83.3 GBytes  23846 Mbits/sec                  
+[  6]  30.00-60.00  sec  82.7 GBytes  23669 Mbits/sec                  
+[  6]  60.00-90.00  sec  83.3 GBytes  23857 Mbits/sec                  
+[  6]  60.00-90.00  sec  82.4 GBytes  23589 Mbits/sec                  
+[  6]  90.00-120.00 sec  83.0 GBytes  23769 Mbits/sec                  
+[  6]  90.00-120.00 sec  82.6 GBytes  23643 Mbits/sec                  
