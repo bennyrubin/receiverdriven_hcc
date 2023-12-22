@@ -1,0 +1,12 @@
+# started on Thu Dec 21 16:18:37 2023
+
+
+ Performance counter stats for 'CPU(s) 4,8,12':
+
+       191,830,554      LLC-load                                                           
+       152,913,839      LLC-load-misses                  #   79.71% of all LL-cache accesses
+       133,012,243      l2_rqsts.all_demand_miss                                           
+       846,253,595      l2_rqsts.all_demand_references                                     
+
+       2.002300402 seconds time elapsed
+
